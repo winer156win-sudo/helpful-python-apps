@@ -1,2 +1,3 @@
 # helpful-python-apps
-helpful python apps for daily help
+Helpful python apps for daily help
+Just ask if you want to help
